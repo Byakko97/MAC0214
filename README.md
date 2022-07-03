@@ -1,18 +1,35 @@
 # Log dos treinos:
 
 ## Perfil no codeforces: [Byakko](https://codeforces.com/profile/Byakko)
-
-### Tempo total gasto: 17 horas
+### Tempo total gasto: 33 horas
 
 Contests em time: 15 horas
 
 Mashups: 0 horas
 
-Contests individuais: 0 horas
+Contests individuais: 2 horas
 
-Upsolve: 1 horas
+Upsolve: 3 horas
 
-Treinamento de conteúdo: 1 horas
+Treinamento de conteúdo: 13 horas
+
+## 26/03/22 Treinamento de conteúdo: Aho Corasick - 1 horas
+
+Resolvi um problema de programação dinâmica com Aho Corasick, um tópico que não tinha estudado em muito tempo e queria lembrar bem antes da prova nacional.
+
+- Lucy and Question Marks [(solução)](https://www.codechef.com/viewsolution/61586003)
+
+### Tempo total gasto: 32 horas
+
+Contests em time: 15 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 12 horas
 
 ## 28/03/22 - [Swiss Subregional 2019-2020](https://codeforces.com/group/ZYtSoyvo86/contest/256788/) - 5 horas
 
@@ -35,6 +52,75 @@ J. Seating Pairs [(solução)](https://codeforces.com/group/ZYtSoyvo86/contest/2
 K. Cookies [(solução)](https://codeforces.com/group/ZYtSoyvo86/contest/256788/submission/151275745)
 
 L. Tree Queries [(solução)](https://codeforces.com/group/ZYtSoyvo86/contest/256788/submission/151282310)
+
+### Tempo total gasto: 27 horas
+
+Contests em time: 10 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 12 horas
+
+## 26/03/22 Treinamento de conteúdo: Diagrama de Voronoi e Triangulação de Delaunay - 6 horas
+
+Estudei os algoritmos para construir a Triangulação de Delaunay e como transformar essa triangulação ao Diagrama de Voronoi. Além disso, estudei as propriedades de tais construções. Depois, consegui resolver duas questões de triangulação de Delaunay (e tentei uma de diagrama de Voronoi, mas minha solução nunca passou em todos os testes do problema).
+
+- Constellation Collection [(solução)](https://codeforces.com/gym/103485/submission/150950256)
+
+- Caravans [(solução)](https://codeforces.com/problemsets/acmsguru/submission/99999/151055662)
+
+### Tempo total gasto: 21 horas
+
+Contests em time: 10 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 6 horas
+
+## 22/03/22 Treinamento de conteúdo: Steiner's tree - 5 horas
+
+Estudei os algoritmos para computar o custo da árvore de Steiner de um grafo e como construir a
+árvore usando programação dinâmica. Depois disso, resolvi 3 questões que usam esse algoritmo.
+
+- Ticket to Ride [(solução)](https://www.spoj.com/status/TICKET,byakko_97/#)
+
+- Garden [(solução)](https://codeforces.com/contest/152/submission/150412914)
+
+- Peach Blossom Spring [(solução)](https://vjudge.net/solution/35534816/pRdgOXX9FwrwiDjIKSpL)
+
+### Tempo total gasto: 16 horas
+
+Contests em time: 10 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 1 horas
+
+## 20/03/22 - [Codeforces Round #778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)](https://codeforces.com/contest/1654) - 2 horas
+
+Consegui resolver apenas duas questões corretamente durante a prova. Tinha um bug na terceira questões por causa de não saber usar multiset (acho que era a primeira vez que usava essa estrutura da STL na minha vida), o que fez que a solução ficasse muito lenta nos testes mais grandes.
+
+A. Maximum Cake Tastiness [(solução)](https://codeforces.com/contest/1654/submission/150230861)
+
+B. Prefix Removals [(solução)](https://codeforces.com/contest/1654/submission/150236107)
+
+Fiz upsolving das seguintes duas questões - 2 horas
+
+C. Alice and the Cake [(solução)](https://codeforces.com/contest/1654/submission/150309866)
+
+D. Potion Brewing Class [(solução)](https://codeforces.com/contest/1654/submission/154030465)
 
 ### Tempo total gasto: 12 horas
 
