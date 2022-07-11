@@ -1,6 +1,450 @@
 # Log dos treinos:
 
 ## Perfil no codeforces: [Byakko](https://codeforces.com/profile/Byakko)
+
+### Tempo total gasto: 104 horas
+
+Contests em time: 29 horas
+
+Mashups: 20 horas
+
+Contests individuais: 24 horas
+
+Upsolve: 18 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 02/07/22 - [2020 Jiangsu Collegiate Programming Contest](https://codeforces.com/gym/102875) - 5 horas
+
+B. Building 5G antennas [(solução)](https://codeforces.com/gym/103708/submission/163408282)
+
+D. Different pass a ports [(solução)](https://codeforces.com/gym/103708/submission/163406952)
+
+E. Erudite of words [(solução)](https://codeforces.com/gym/103708/submission/163407597)
+
+F. Froginald the frog [(solução)](https://codeforces.com/gym/103708/submission/163410630)
+
+H. Hog fencing [(solução)](https://codeforces.com/gym/103708/submission/163402724)
+
+I. Isabel's division [(solução)](https://codeforces.com/gym/103708/submission/163402187)
+
+J. Jeffrey's ambition [(solução)](https://codeforces.com/gym/103708/submission/163405637)
+
+K. Kilo Waste [(solução)](https://codeforces.com/gym/103708/submission/163404691)
+
+
+### Tempo total gasto: 99 horas
+
+Contests em time: 29 horas
+
+Mashups: 15 horas
+
+Contests individuais: 24 horas
+
+Upsolve: 18 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 04/07/22 - [Codeforces Round #804 (Div. 2)](https://codeforces.com/contest/1699) - 2 horas
+
+A. The Third Three Number Problem [(solução)](https://codeforces.com/contest/1699/submission/162763561)
+
+B. Almost Ternary Matrix  [(solução)](https://codeforces.com/contest/1699/submission/162770908)
+
+C. The Third Problem [(solução)](https://codeforces.com/contest/1699/submission/162795056)
+
+### Tempo total gasto: 97 horas
+
+Contests em time: 27 horas
+
+Mashups: 15 horas
+
+Contests individuais: 24 horas
+
+Upsolve: 18 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 02/07/22 - [2020 Jiangsu Collegiate Programming Contest](https://codeforces.com/gym/102875) - 5 horas
+
+Nessa prova, ajudei ao Antonio e ao Gustavo a treinar pois o terceiro integrante da equipe delas não conseguiu estar presente.
+
+C. Cats [(solução)](https://codeforces.com/gym/102875/submission/162579235)
+
+D. Delete Prime [(solução)](https://codeforces.com/gym/102875/submission/162589213)
+
+H. Happy Morse Code [(solução)](https://codeforces.com/gym/102875/submission/162578884)
+
+J. Just Multiplicative Inverse [(solução)](https://codeforces.com/gym/102875/submission/162577194)
+
+### Tempo total gasto: 92 horas
+
+Contests em time: 22 horas
+
+Mashups: 15 horas
+
+Contests individuais: 24 horas
+
+Upsolve: 18 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 25/06/22 - [I Maratona Interna de 2022 (UDESC)](https://bruteudesc.com/domestica-2022/) - 5 horas
+
+Simulamos essa prova num mashup mas infelizmente não tenho acesso às submissões.
+
+### Tempo total gasto: 87 horas
+
+Contests em time: 22 horas
+
+Mashups: 10 horas
+
+Contests individuais: 24 horas
+
+Upsolve: 18 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 18/06/22 - [Codeforces Round #801 (Div. 2) and EPIC Institute of Technology Round](https://codeforces.com/contest/1695) - 2 horas
+
+A. Subrectangle Guess [(solução)](https://codeforces.com/contest/1695/submission/161054334)
+
+B. Circle Game [(solução)](https://codeforces.com/contest/1695/submission/161062020)
+
+Fiz upsolving da seguinte questão - 1 hora
+
+C. Zero Path [(solução)](https://codeforces.com/contest/1695/submission/161346040)
+
+### Tempo total gasto: 84 horas
+
+Contests em time: 22 horas
+
+Mashups: 10 horas
+
+Contests individuais: 22 horas
+
+Upsolve: 17 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 12/06/22 - [Educational Codeforces Round 130 (Rated for Div. 2)](https://codeforces.com/contest/1697) - 2 horas
+
+A. Parkway Walk [(solução)](https://codeforces.com/contest/1697/submission/160286401)
+
+B. Promo [(solução)](https://codeforces.com/contest/1697/submission/160296842)
+
+C. awoo's Favorite Problem [(solução)](https://codeforces.com/contest/1697/submission/160318273)
+
+Fiz upsolving da seguinte questão - 1 hora
+
+D. Guess the String [(solução)](https://codeforces.com/contest/1697/submission/160361545)
+
+### Tempo total gasto: 81 horas
+
+Contests em time: 22 horas
+
+Mashups: 10 horas
+
+Contests individuais: 20 horas
+
+Upsolve: 16 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 04/06/22 - [XXI Open Cup named after E.V. Pankratiev](https://official.contest.yandex.ru/opencupXXI/contest/21761/enter) - 5 horas
+
+Simulamos essa prova num mashup mas infelizmente não tenho acesso às submissões.
+
+### Tempo total gasto: 76 horas
+
+Contests em time: 22 horas
+
+Mashups: 5 horas
+
+Contests individuais: 20 horas
+
+Upsolve: 16 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 25/05/22 - [Codeforces Round #794 (Div. 2)](https://codeforces.com/contest/1686) - 2 horas
+
+A. Everything Everywhere All But One [(solução)](https://codeforces.com/contest/1686/submission/158436966)
+
+B. Odd Subarrays [(solução)](https://codeforces.com/contest/1686/submission/158440089)
+
+C. Local MiniMax [(solução)](https://codeforces.com/contest/1686/submission/158444919)
+
+Fiz upsolving da seguinte questão - 2 horas
+
+D. Linguistics [(solução)](https://codeforces.com/contest/1686/submission/160766177)
+
+### Tempo total gasto: 72 horas
+
+Contests em time: 22 horas
+
+Mashups: 5 horas
+
+Contests individuais: 18 horas
+
+Upsolve: 14 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 19/05/22 - [Codeforces Round #792 (Div. 1 + Div. 2)](https://codeforces.com/contest/1684) - 2 horas
+
+A. Digit Minimization [(solução)](https://codeforces.com/contest/1684/submission/157683506)
+
+B. B - Z mod X = C [(solução)](https://codeforces.com/contest/1684/submission/157687696)
+
+D. Traps [(solução)](https://codeforces.com/contest/1684/submission/157715827)
+
+Fiz upsolving da seguinte 2 questão - 2 horas
+
+C. Columns Swapping [(solução)](https://codeforces.com/contest/1684/submission/160466295)
+
+D. MEX vs DIFF [(solução)](https://codeforces.com/contest/1684/submission/160671675)
+
+### Tempo total gasto: 68 horas
+
+Contests em time: 22 horas
+
+Mashups: 5 horas
+
+Contests individuais: 16 horas
+
+Upsolve: 12 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 13/05/22 - [Educational Codeforces Round 128 (Rated for Div. 2)](https://codeforces.com/contest/1680) - 2 horas
+
+A. Minimums and Maximums [(solução)](https://codeforces.com/contest/1680/submission/157020836)
+
+B. Robots [(solução)](https://codeforces.com/contest/1680/submission/157031100)
+
+C. Binary String [(solução)](https://codeforces.com/contest/1680/submission/157049664)
+
+E. Moving Chips [(solução)](https://codeforces.com/contest/1670/submission/160055918)
+
+Fiz upsolving da seguinte 2 questão - 2 horas
+
+D. Dog Walking [(solução)](https://codeforces.com/contest/1680/submission/161569713)
+
+### Tempo total gasto: 64 horas
+
+Contests em time: 22 horas
+
+Mashups: 5 horas
+
+Contests individuais: 14 horas
+
+Upsolve: 10 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 07/05/22 - [2017-2018 ACM-ICPC German Collegiate Programming Contest (GCPC 2017)](https://codeforces.com/gym/101873) - 5 horas
+
+Primeiro mashup de 2022! Nesses contests, a gente mistura os integrantes dos times para incentivar às pessoas mais novas a participar das provas.
+
+C. Joyride [(solução)](https://codeforces.com/gym/101873/submission/156233564)
+
+D. Pants on Fire [(solução)](https://codeforces.com/gym/101873/submission/156229068)
+
+E. Perpetuum Mobile [(solução)](https://codeforces.com/gym/101873/submission/156238043)
+
+F. Plug it In [(solução)](https://codeforces.com/gym/101873/submission/156233693)
+
+G. Water Testing [(solução)](https://codeforces.com/gym/101873/submission/156228200)
+
+H. Ratatoskr [(solução)](https://codeforces.com/gym/101873/submission/156237246)
+
+I. Uberwatch [(solução)](https://codeforces.com/gym/101873/submission/156226705)
+
+K. You Are Fired [(solução)](https://codeforces.com/gym/101873/submission/156224828)
+
+### Tempo total gasto: 59 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 14 horas
+
+Upsolve: 10 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 06/05/22 - [Codeforces Round #788 (Div. 2) ](https://codeforces.com/contest/1670) - 2 horas
+
+A. Prof. Slim [(solução)](https://codeforces.com/contest/1670/submission/156087215)
+
+B. Dorms War [(solução)](https://codeforces.com/contest/1670/submission/156103109)
+
+Fiz upsolving das seguintes 2 questões - 2 horas
+
+C. Where is the Pizza? [(solução)](https://codeforces.com/contest/1670/submission/159980500)
+
+D. Very Suspicious [(solução)](https://codeforces.com/contest/1670/submission/160055918)
+
+### Tempo total gasto: 55 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 12 horas
+
+Upsolve: 8 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 19/04/22 - [Educational Codeforces Round 127 (Rated for Div. 2](https://codeforces.com/contest/1671) - 2 horas
+
+A. String Building [(solução)](https://codeforces.com/contest/1671/submission/154515288)
+
+B. Consecutive Points Segment [(solução)](https://codeforces.com/contest/1671/submission/154521916)
+
+C. Dolce Vita [(solução)](https://codeforces.com/contest/1671/submission/154534226)
+
+D. Insert a Progression [(solução)](https://codeforces.com/contest/1671/submission/154558402)
+
+Fiz upsolving da seguinte questão - 1 horas
+
+E. Preorder [(solução)](https://codeforces.com/contest/1671/submission/154578010)
+
+### Tempo total gasto: 52 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 10 horas
+
+Upsolve: 7 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 19/04/22 - [Codeforces Round #783](https://codeforces.com/contest/1668) - 2 horas
+
+A. Direction Change [(solução)](https://codeforces.com/contest/1668/submission/154083584)
+
+B. Social Distance [(solução)](https://codeforces.com/contest/1668/submission/154089888)
+
+C. Make it Increasing [(solução)](https://codeforces.com/contest/1668/submission/154099146)
+
+Fiz upsolving da seguinte questão - 1 horas
+
+D. Optimal Partition [(solução)](https://codeforces.com/contest/1668/submission/154146592)
+
+
+### Tempo total gasto: 49 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 8 horas
+
+Upsolve: 6 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 17/04/22 - [Codeforces Round #782](https://codeforces.com/contest/1659) - 2 horas
+
+A. Red Versus Blue [(solução)](https://codeforces.com/contest/1659/submission/153898007)
+
+B. Bit Flipping [(solução)](https://codeforces.com/contest/1659/submission/153915717)
+
+C. Line Empire [(solução)](https://codeforces.com/contest/1659/submission/153933101)
+
+Fiz upsolving da seguinte questão - 1 horas
+
+D. Reverse Sort Sum [(solução)](https://codeforces.com/contest/1659/submission/155247821)
+
+### Tempo total gasto: 46 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 6 horas
+
+Upsolve: 5 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 09/04/22 - [Educational Codeforces Round 126 (Rated for Div. 2) ](https://codeforces.com/contest/1661) - 2 horas
+
+A. Array Balancing [(solução)](https://codeforces.com/contest/1661/submission/153169515)
+
+B. Getting Zero [(solução)](https://codeforces.com/contest/1661/submission/153173332)
+
+C. Water the Trees [(solução)](https://codeforces.com/contest/1661/submission/153209325)
+
+Fiz upsolving da seguinte questão - 1 horas
+
+D. Progession Covering [(solução)](https://codeforces.com/contest/1661/submission/155155900)
+
+### Tempo total gasto: 43 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 4 horas
+
+Upsolve: 4 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 08/04/22 - [Codeforces Round #781](https://codeforces.com/contest/1665) - 2 horas
+
+A. GCD vs LCM [(solução)](https://codeforces.com/contest/1665/submission/153034259)
+
+B. Array Cloning Technique [(solução)](https://codeforces.com/contest/1665/submission/153039605)
+
+C. Tree Infection [(solução)](https://codeforces.com/contest/1665/submission/153058304)
+
+Fiz upsolving da seguinte questão - 1 horas
+
+D. GCD Guess [(solução)](https://codeforces.com/contest/1665/submission/154078362)
+
+### Tempo total gasto: 40 horas
+
+Contests em time: 22 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 02/03/22  - [XXVI Maratona de Programação - 2021](http://maratona.sbc.org.br/hist/2021/resultados21/reports/brbr/score.html) - 5 horas
+
+Infelizmente, a minha equipe (Zikados, 15º lugar) não conseguiu se clasificar à final mundial nem obtivemos medalha. A dificuldade da prova
+e o nervoso de estar numa prova tão grande e presencial nos fez perder o foco e não seguimos nossa estratégia costumada. Assim, cada um de 
+nós ficou focado num problema diferente em vez de trocar de questão ou tentar resolver alguma delas com a ajuda de outro integrante da equipe, 
+como costumavamos fazer nos treinos.
+
+### Tempo total gasto: 35 horas
+
+Contests em time: 17 horas
+
+Mashups: 0 horas
+
+Contests individuais: 2 horas
+
+Upsolve: 3 horas
+
+Treinamento de conteúdo: 13 horas
+
+## 01/03/22  - [Warmup da XXVI Maratona de Programação - 2021](http://maratona.sbc.org.br/hist/2021/result21.html) - 2 horas
+
+Aquecimento para a prova do dia seguinte. O foco principal é testar o ambiente.  
+
 ### Tempo total gasto: 33 horas
 
 Contests em time: 15 horas
